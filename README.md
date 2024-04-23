@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **p20gian@ionio.gr**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
