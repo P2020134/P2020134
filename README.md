@@ -18,7 +18,7 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=P2020134&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=P2020134&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=395)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
