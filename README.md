@@ -19,4 +19,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,c,cpp,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,c,cpp,kali,linkedin,py,wordpress)](https://skillicons.dev)
